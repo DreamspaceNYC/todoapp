@@ -1,10 +1,10 @@
 
-## Todoish (Todoist clone)
+## Chronolist
 
 ![App Screenshot](https://i.ibb.co/TrqT4bx/image.png)
 
-Todoish is the most advanced clone of Todoist on the internet! 
-This project captures many of the features users of Todoist love and appreciate
+Chronolist is a powerful open-source task manager and to-do list app.
+Chronolist captures many of the features users love in modern productivity tools.
 ## Features
 
  - Task groups (Projects)

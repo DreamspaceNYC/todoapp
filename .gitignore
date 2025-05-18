@@ -25,3 +25,6 @@ yarn-error.log*
 node-modules/
 # Local Netlify folder
 .netlify
+
+# macOS network share temp files
+.!*

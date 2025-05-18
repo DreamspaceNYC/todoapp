@@ -53,7 +53,7 @@ export const LandingPage = () => {
             Organize your <br /> work and life, finally.
           </h1>
           <h2 className="hero-text__sub">
-            Become focused, organized, and calm with Todoist. The world’s #1 task manager and to-do list app.
+            Become focused, organized, and calm with Chronolist. Chronolist is a powerful task manager and to-do list app.
           </h2>
           <Link to="/signin" className="intro__hero--cta">
                 Start for free
