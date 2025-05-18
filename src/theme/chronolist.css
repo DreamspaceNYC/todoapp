@@ -1,0 +1,15 @@
+:root {
+  --color-core: #7F1DFF;
+  --color-accent: #00F0B5;
+  --color-glow: #F7FF00;
+  --color-dark: #0F0C29;
+  --color-soft: #E0E0E0;
+  --color-error: #FF1E56;
+  --color-success: #32FF6A;
+}
+
+body {
+  background-color: var(--color-dark);
+  color: var(--color-soft);
+  font-family: 'Inter', sans-serif;
+}

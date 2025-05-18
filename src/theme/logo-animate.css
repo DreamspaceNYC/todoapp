@@ -1,0 +1,18 @@
+@keyframes pulseGlow {
+  0% {
+    transform: scale(1);
+    filter: drop-shadow(0 0 0px var(--color-accent));
+  }
+  50% {
+    transform: scale(1.1);
+    filter: drop-shadow(0 0 10px var(--color-glow));
+  }
+  100% {
+    transform: scale(1);
+    filter: drop-shadow(0 0 0px var(--color-accent));
+  }
+}
+
+.logo-animated {
+  animation: pulseGlow 2.5s infinite ease-in-out;
+}
